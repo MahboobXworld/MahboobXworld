@@ -187,14 +187,6 @@ Interested in autonomous driving, robot perception, SLAM, motion planning, senso
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahboobXworld&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
