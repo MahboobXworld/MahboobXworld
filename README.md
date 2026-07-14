@@ -2,6 +2,13 @@
 <!--        HEADER             -->
 <!-- ========================= -->
 
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZ3Z3I2azA4MDVwcnhqZDJpYmJ6cngwYzNkc3Rocmd4YjVkY3NmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XXYkaKVk1Luda/giphy.gif"
+       width="200" height="200"
+       alt="Robotics Animation">
+</p>
+
 <h1 align="center">
 Hi 👋, I'm Mahboob Alam
 </h1>
