@@ -164,9 +164,6 @@ Interested in autonomous driving, robot perception, SLAM, motion planning, senso
   <a href="https://linkedin.com/in/mahboob-alam-242342152">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/MahboobXworld">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://instagram.com/mahboobxworld">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
   </a>
