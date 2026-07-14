@@ -186,9 +186,10 @@ Interested in autonomous driving, robot perception, SLAM, motion planning, senso
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahboobXworld&theme=tokyo-night&hide_border=true" />
-</p>
+
+<div align="center">
+  <img width="90%" src="https://raw.githubusercontent.com/MahboobXworld/MahboobXworld/main/activity-graph.svg"/>
+</div>
 
 ---
 
