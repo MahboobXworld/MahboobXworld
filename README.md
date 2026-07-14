@@ -213,3 +213,8 @@ Interested in autonomous driving, robot perception, SLAM, motion planning, senso
 <p align="center">
   <sub>Built with a focus on robotics, autonomy, perception, and AI.</sub>
 </p>
+
+---
+
+![snake gif](https://raw.githubusercontent.com/MahboobXworld/MahboobXworld/output/github-snake.svg#gh-light-mode-only)
+![snake gif](https://raw.githubusercontent.com/MahboobXworld/MahboobXworld/output/github-snake-dark.svg#gh-dark-mode-only)
