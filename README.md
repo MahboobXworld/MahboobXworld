@@ -22,60 +22,13 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Overview
 
-I am a Robotics Software Engineer passionate about building autonomous mobile robots and solving real-world robotics problems.
+Robotics Software Engineer passionate about building intelligent autonomous robots for real-world applications.
 
-Currently, I work at Flux Auto Pvt Ltd as a Robotics Software Engineer, focusing on industrial autonomous warehouse robots and the full autonomy stack from perception to navigation and validation.
+Currently working with ROS2, Computer Vision, Perception, Navigation, and AI for industrial autonomous mobile robots.
 
-I am especially interested in:
-- Autonomous Vehicles
-- Industrial AMRs
-- Robot Perception
-- Computer Vision
-- AI
-- Navigation
-- SLAM
-- Motion Planning
-- Autonomous Driving
-- Robotics Software
-
-I am currently learning the complete autonomous driving stack from perception to planning and control, with the goal of becoming a world-class Robotics AI Engineer.
-
----
-
-## 💼 Professional Experience
-
-### Robotics Software Engineer
-<strong>Flux Auto Pvt Ltd</strong>
-
-Worked on industrial autonomous warehouse robots with responsibilities spanning:
-- Robot deployment
-- Robot validation
-- ROS2 integration
-- Navigation debugging
-- Localization
-- Motion Planning
-- Path Tracking
-- Pallet pickup/drop validation
-- Warehouse automation
-- Sensor calibration
-- Real robot debugging
-- Safety validation
-- Mapping
-- Testing the complete autonomy stack
-
----
-
-## 🧠 Core Focus Areas
-
-- Autonomous mobile robotics
-- Industrial warehouse automation
-- Robot perception and localization
-- Navigation and motion planning
-- Computer vision and AI for robotics
-- Real robot debugging and deployment
-- Autonomous driving stack learning
+Interested in autonomous driving, robot perception, SLAM, motion planning, sensor fusion, and deep learning while continuously expanding my robotics software engineering skills.
 
 ---
 
@@ -188,24 +141,6 @@ Worked on industrial autonomous warehouse robots with responsibilities spanning:
 
 ---
 
-## 🔭 Featured Projects
-
-- Industrial Autonomous Warehouse Robot
-- ROS2 Navigation
-- Autonomous Pallet Pickup and Drop
-- YOLOv8 Screw Defect Detection
-- Occupancy Network Dataset Generation
-- CARLA Autonomous Vehicle Simulation
-- 360 Camera Data Recorder
-- 3D LiDAR Dataset Collection
-- Point Cloud Processing
-- Sensor Integration
-- Autonomous Navigation
-- Behavior Planning
-- Ackermann Steering Planner
-
----
-
 ## 📚 Currently Learning
 
 - Visual SLAM
@@ -220,16 +155,6 @@ Worked on industrial autonomous warehouse robots with responsibilities spanning:
 - Reinforcement Learning
 - CUDA
 - TensorRT
-
----
-
-## 🎯 Learning Roadmap & Goals
-
-1. Build a strong foundation in perception, localization, and mapping
-2. Deepen expertise in autonomous driving perception and planning
-3. Strengthen real-world deployment experience with robotics systems
-4. Prepare for roles in autonomy, perception, and AI at leading robotics companies
-5. Continue growing toward world-class Robotics AI Engineering
 
 ---
 
