@@ -27,7 +27,7 @@
 
   <rect class="bg" width="800" height="300" rx="10"/>
   <text x="30" y="35" class="title">MahboobXworld's Contribution Activity</text>
-  <text x="30" y="54" class="subtitle">Last 8 weeks · 58 contributions in the past year</text>
+  <text x="30" y="54" class="subtitle">Last 8 weeks · 55 contributions in the past year</text>
   <line class="axis" x1="60" y1="260" x2="760" y2="260"/>
 
   <path class="area" fill="url(#areaFill)" d="M60,145.2173913043478 C108.5,145.2173913043478 108.5,173.91304347826087 157,173.91304347826087 C205.5,173.91304347826087 205.5,250.43478260869566 254,250.43478260869566 C302.5,250.43478260869566 302.5,260 351,260 C399.5,260 399.5,260 448,260 C496.5,260 496.5,40 545,40 C593.5,40 593.5,260 642,260 C690.5,260 690.5,260 739,260 L739,260 L60,260 Z"/>
